@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog&#39;s title</title>
+    <link>https://shisihua11.github.io/</link>
+    <description>Recent content on blog&#39;s title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 26 Oct 2019 21:31:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://shisihua11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>你好，世界！</title>
+      <link>https://shisihua11.github.io/posts/hello_world/</link>
+      <pubDate>Sat, 26 Oct 2019 21:31:25 +0800</pubDate>
+      
+      <guid>https://shisihua11.github.io/posts/hello_world/</guid>
+      <description>你好 , 世界 ! Hello World! 这是第一个段落 今天是 2019 年 10 月 27 日 而且还是 星期六 星期天</description>
+    </item>
+    
+  </channel>
+</rss>
